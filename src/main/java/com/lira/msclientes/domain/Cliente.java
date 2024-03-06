@@ -2,9 +2,9 @@ package com.lira.msclientes.domain;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 import javax.persistence.*;
+
 
 @Entity
 @Data
